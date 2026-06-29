@@ -54,3 +54,5 @@ For both a Linux startup and a Microsoft-centric enterprise, Azure is the recomm
 **Author:** Taiwo Ajani
 **Platform comparison:** Amazon Web Services vs Microsoft Azure
 **Tooling:** AWS Pricing Calculator, Azure Pricing Calculator
+## Regional Analysis
+See `regional-price-analysis.md` for full cost comparison across US East, Europe (London), and Asia Pacific (Singapore).
